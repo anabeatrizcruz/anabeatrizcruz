@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabeatrizcruz)](https://github.com/anabeatrizcruz/github-readme-stats)
+
+ ![Snake animation](https://github.com/anabeatrizcruz/anabeatrizcruz/blob/output/github-contribution-grid-snake.svg)
